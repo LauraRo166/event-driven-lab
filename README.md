@@ -56,23 +56,23 @@ Cola: `messages.queue`
 
 ### 1. Servicios corriendo
 
-![docker compose ps](docker%20compose%20ps.png)
+![docker compose ps](img/docker%20compose%20ps.png)
 
 ### 2. Mensaje enviado desde el productor
 
-![producer response](producer%20response.png)
+![producer response](img/producer%20response.png)
 
 ### 3. Mensaje recibido por el consumidor
 
-![consumer logs](consumer%20logs.png)
+![consumer logs](img/consumer%20logs.png)
 
 ### 4. RabbitMQ Management UI
 
-![rabbitmq ui](rabbitmq%20ui.png)
+![rabbitmq ui](img/rabbitmq%20ui.png)
 
 ### 5. Imágenes en Docker Hub
 
-![docker hub](docker%20hub.png)
+![docker hub](img/docker%20hub.png)
 
 ---
 
